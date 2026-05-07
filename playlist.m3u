@@ -1,0 +1,130 @@
+#EXTM3U url-tvg="https://puticastillo.github.io/EPGCL/vilma/epg.xml" x-tvg-url="https://puticastillo.github.io/EPGCL/vilma/epg.xml"
+
+##################################################
+# 🎯 1 - 20 | TV ABIERTA CHILE (NUMERACIÓN REAL)
+##################################################
+
+#EXTINF:-1 tvg-id="491" tvg-logo="https://cdn.m3u.cl/logo/491_TV_Chile.png" group-title="01. TV Abierta",1 | TV Chile
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+
+#EXTINF:-1 tvg-id="45" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" group-title="01. TV Abierta",2 | NTV
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+
+#EXTINF:-1 tvg-id="168" tvg-logo="https://cdn.m3u.cl/logo/168_TNE.png" group-title="01. TV Abierta",3 | TNE
+https://v2.tustreaming.cl/tnetv/index.m3u8
+
+#EXTINF:-1 tvg-id="790" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="01. TV Abierta",4 | La Red
+https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="458" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="01. TV Abierta",5 | TV+
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="54" tvg-logo="https://cdn.m3u.cl/logo/54_UCV.png" group-title="01. TV Abierta",6 | UCV TV
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="452" tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png" group-title="01. TV Abierta",7 | TVN HD
+https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
+
+#EXTINF:-1 tvg-id="1437" tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png" group-title="01. TV Abierta",8 | TVN 3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+
+#EXTINF:-1 tvg-id="455" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="01. TV Abierta",9 | Mega HD
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="449" tvg-logo="https://cdn.m3u.cl/logo/449_Meganoticias.png" group-title="01. TV Abierta",10 | Meganoticias
+https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
+
+#EXTINF:-1 tvg-id="1569" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV.png" group-title="01. TV Abierta",11 | Chilevisión HD
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1153" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV_Noticias.png" group-title="01. TV Abierta",12 | CHV Noticias
+https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
+
+#EXTINF:-1 tvg-id="1733" tvg-logo="https://cdn.m3u.cl/logo/1733_Canal_13.png" group-title="01. TV Abierta",13 | Canal 13 HD
+https://redirector.dps.live/hls/13cl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1054" tvg-logo="https://cdn.m3u.cl/logo/1054_T13.png" group-title="01. TV Abierta",14 | T13
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1685" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png" group-title="01. TV Abierta",15 | 13 Internacional
+https://redirector.dps.live/hls/13intav/playlist.m3u8
+
+#EXTINF:-1 tvg-id="448" tvg-logo="https://cdn.m3u.cl/logo/448_TVN_24_Horas.png" group-title="01. TV Abierta",16 | TVN 24 Horas
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
+
+##################################################
+# 📰 21 - 40 | NOTICIAS
+##################################################
+
+#EXTINF:-1 tvg-id="1732" tvg-logo="https://cdn.m3u.cl/logo/1732_CNN_Chile.png" group-title="02. Noticias",21 | CNN Chile
+https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="415" tvg-logo="https://cdn.m3u.cl/logo/415_Puranoticia.png" group-title="02. Noticias",22 | Puranoticia
+https://pnt.janusmedia.tv/hls/pnt.m3u8
+
+
+##################################################
+# 🎬 41 - 80 | ENTRETENIMIENTO
+##################################################
+
+#EXTINF:-1 tvg-id="1193" tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png" group-title="03. Entretenimiento",41 | 13 Cultura
+https://redirector.dps.live/hls/13cultura/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1032" tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png" group-title="03. Entretenimiento",42 | 13 Teleseries
+https://redirector.dps.live/hls/13t/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1033" tvg-logo="https://cdn.m3u.cl/logo/1033_13_Pop.png" group-title="03. Entretenimiento",43 | 13 Pop
+https://redirector.dps.live/hls/13pop/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1446" tvg-logo="https://cdn.m3u.cl/logo/1446_13_Festival.png" group-title="03. Entretenimiento",44 | 13 Festival
+https://redirector.dps.live/hls/13festival/playlist.m3u8
+
+
+##################################################
+# 🎮 81 - 100 | GEEK / ANIME
+##################################################
+
+#EXTINF:-1 tvg-id="1112" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="04. Geek",81 | EnerGeek FAN
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb
+
+#EXTINF:-1 tvg-id="947" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png" group-title="04. Geek",82 | EnerGeek Retro
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb
+
+
+##################################################
+# 🎵 101 - 130 | MUSICA
+##################################################
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://cdn.m3u.cl/logo/13_Ruidos_TV.png" group-title="05. Música",101 | Ruidos TV
+https://tv1.ruidosfm.cl/ruidostv/stream.m3u8
+
+#EXTINF:-1 tvg-id="1014" tvg-logo="https://cdn.m3u.cl/logo/1014_PlanetaTV.png" group-title="05. Música",102 | Planeta TV
+https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
+
+
+##################################################
+# 🎧 131 - 180 | RADIOS TV
+##################################################
+
+#EXTINF:-1 tvg-id="424" tvg-logo="https://cdn.m3u.cl/logo/424_ADN.png" group-title="06. Radios",131 | ADN TV
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="422" tvg-logo="https://cdn.m3u.cl/logo/422_Cooperativa.png" group-title="06. Radios",132 | Cooperativa
+https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="425" tvg-logo="https://cdn.m3u.cl/logo/425_Radio_Infinita.png" group-title="06. Radios",133 | Infinita
+https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8
+
+
+##################################################
+# 🌎 181 - 250 | REGIONALES TOP
+##################################################
+
+#EXTINF:-1 tvg-id="421" tvg-logo="https://cdn.m3u.cl/logo/421_Bio_Bio_TV.png" group-title="07. Regional",181 | Bio Bio TV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="311" tvg-logo="https://cdn.m3u.cl/logo/311_Arica_TV.png" group-title="07. Regional",182 | Arica TV
+https://envivo.arica.tv/hls/Live2025AricaTV.m3u8
+
+#EXTINF:-1 tvg-id="71" tvg-logo="https://cdn.m3u.cl/logo/71_Antofagasta_TV.png" group-title="07. Regional",183 | Antofagasta TV
+https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8
