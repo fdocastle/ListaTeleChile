@@ -128,3 +128,11 @@ https://envivo.arica.tv/hls/Live2025AricaTV.m3u8
 
 #EXTINF:-1 tvg-id="71" tvg-logo="https://cdn.m3u.cl/logo/71_Antofagasta_TV.png" group-title="07. Regional",183 | Antofagasta TV
 https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8
+
+
+##################################################
+# 🏈 251 - 300 | DEPORTES ARGENTINA
+##################################################
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="https://cdn.m3u.cl/logo/argentina_sports.png" group-title="08. Deportes Argentina",251 | Deportes Argentina
+https://raw.githubusercontent.com/Kewsito/lista-deportes-argentina/refs/heads/main/lista.m3u8
